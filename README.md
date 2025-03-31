@@ -101,6 +101,32 @@ Immersive environments for therapy, relaxation, and engagement.
 
 ---
 
+
+## 🏆 **Model & Datasets Used**  
+
+### **📊 Datasets Utilized**  
+1️⃣ **National Family Health Survey (NFHS-5)** – Mental health statistics, emotional well-being trends.  
+   🔗 [Dataset Link](https://www.kaggle.com/datasets/bhanupratapbiswas/national-family-health-survey-nfhs-2019-21)  
+2️⃣ **COVID-19 Mental Health Impact Data** – Analyzes stress & anxiety post-pandemic.  
+   🔗 [Dataset Link](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india)  
+3️⃣ **Wearable Biometric Data (Heart Rate, Stress Levels)** – Tracks emotional fluctuations.  
+   🔗 Example: Fitbit, Apple Health, or Kaggle datasets related to HRV & stress.  
+4️⃣ **Public Sentiment Analysis (Twitter/Reddit Mental Health Posts)** – AI-powered emotion recognition using NLP.  
+
+### **🤖 AI Models Used**  
+🔹 **Sentiment Analysis Model (BERT)** – Detects emotions from user text & chatbot inputs.  
+🔹 **CNN-Based Emotion Recognition** – Facial expression analysis to identify stress/mood.  
+🔹 **Time-Series Forecasting (ARIMA)** – Predicts emotional fluctuations based on past mood trends & wearable data.  
+🔹 **Clustering Algorithm (K-Means)** – Identifies user mental health patterns for personalized recommendations.  
+
+💡 **How These Models Help?**  
+✅ **Predict Mood Changes:** AI learns patterns from datasets + user inputs.  
+✅ **Provide Personalized Support:** Nira adapts responses based on real-time analysis.  
+✅ **Enhance User Well-being:** Wearable insights + AI models suggest mindfulness & relaxation strategies.  
+
+---
+
+
 ## 📈 **Future Scope**
 Nira aims to integrate **AR/VR environments** for enhanced immersive therapy, introduce **two-player interactive wellness games**, and further optimize **wearable data analysis** for even more proactive interventions. With an unwavering commitment to mental health, Nira envisions becoming a global leader in AI-driven mental wellness.
 
