@@ -54,6 +54,14 @@ Nira is a **comprehensive mental health and wellness platform** designed to empo
 
 ---
 
+💌 Hope Box
+- A personalized digital space to store uplifting memories, quotes, images, and messages that bring hope and positivity.
+- AI-powered reminders to revisit the Hope Box during low emotional phases.
+- Users can add messages from loved ones, achievements, or even voice notes for self-motivation.
+- Helps reinforce emotional resilience and a sense of purpose during tough times.
+
+---
+
 ### 📡 **Wearable Integration for Proactive Care**
 - Monitors biometric data (heart rate, BP) through wearables.
 - Sends calming activity suggestions when stress levels spike.
